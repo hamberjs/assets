@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "hamber-assets",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
